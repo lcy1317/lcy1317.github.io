@@ -37,17 +37,13 @@ Zero Trust 6G Wireless Blockchain Networks!
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-**Acknowledgement**
-- National Key R&D Program of China under Grant 2022YFB2902204
-- National Natural Science Foundation of China under Grants 61971130 and 61720106003
-- Key Technologies R&D Program of Jiangsu (Prospective and Key Technologies for Industry) under Grants BE2022068 and BE2022068-3
-- Natural Science Foundation on Frontier Leading Technology Basic Research Project of Jiangsu under Grant BK20212001
-- Huawei Cooperation Project under FA2019051081-2021-01.
-
-</div>
-</div>
-
+**Cite**
 - Y. Jiang, Y. Le, J. Wang and X. You, "[GaS-PBFT: A Game-based Node Selection Consensus Mechanism for Internet of Things](https://ieeexplore.ieee.org/document/10039397)," 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, 2022, pp. 17-21, doi: 10.1109/WCSP55476.2022.10039397.
+
+</div>
+</div>
+
+
 <!-- - [GaS-PBFT: A Game-based Node Selection Consensus Mechanism for Internet of Things](https://ieeexplore.ieee.org/document/10039397), Yiheng Jiang, Yuwei Le, Jiaheng Wang, Xiaohu You, **WCSP 2022** -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iThings 2022</div><img src='images/paperimg/iThings2022.jpg' alt="sym" width="100%"></div></div>
@@ -57,17 +53,13 @@ Zero Trust 6G Wireless Blockchain Networks!
 
 Yuwei Le, **Yiheng Jiang**, Xintong Ling, Jiaheng Wang
 
-**Acknowledgement**
-- National Key R&D Program of China under Grant 2018YFB1801103
-- National Natural Science Foundation of China under Grants 61901111, 61971130, and 61720106003
-- Natural Science Foundation on Frontier Leading Technology Basic Research Project of Jiangsu under Grant BK20212001 and BK20192002
-- Natural Science Foundation of Jiangsu Province under Grant BK20190331
-- Huawei Cooperation Project under FA 2019051081-2021-01.
-
-</div>
-</div>
-
+**Cite**
 - Y. Le, Y. Jiang, X. Ling and J. Wang, "[Efficient and Secure Collaborative Processing in Mobile Edge Computing via Blockchain](https://ieeexplore.ieee.org/document/9903099)," 2022 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics), Espoo, Finland, 2022, pp. 155-160, doi: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics55523.2022.00061.
+
+</div>
+</div>
+
+<!-- - Y. Le, Y. Jiang, X. Ling and J. Wang, "[Efficient and Secure Collaborative Processing in Mobile Edge Computing via Blockchain](https://ieeexplore.ieee.org/document/9903099)," 2022 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics), Espoo, Finland, 2022, pp. 155-160, doi: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics55523.2022.00061. -->
 
 # 📝 Patents
 
