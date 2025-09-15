@@ -81,12 +81,31 @@ Kun Huang, Yuwei Le, **Yiheng Jiang**, Jiaheng Wang, Xintong Ling
 <!-- - K. Huang, Y. Le, Y. Jiang, J. Wang and X. Ling, "[Blockchain-Enabled Secure Data Interactions for Responsive Cyber-Physical Spaces](https://ieeexplore.ieee.org/abstract/document/11100788)," 2024 IEEE Globecom Workshops (GC Wkshps), Cape Town, South Africa, 2024, pp. 1-6, doi: 10.1109/GCWkshp64532.2024.11100788. -->
 
 
+<!-- - [Age-of-Information Analysis for Blockchain-Based Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/11122470), Yuwei Le, Rui Jiang, Yiheng Jiang, Xintong Ling, Jiaheng Wang, Derrick Wing Kwan Ng, **TCOM** -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GC Wkshps 2024</div><img src='images/paperimg/TCOM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Age-of-Information Analysis for Blockchain-Based Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/11122470)
+
+Yuwei Le, Rui Jiang, **Yiheng Jiang**, Xintong Ling, Jiaheng Wang, Derrick Wing Kwan Ng
+
+**Cite**
+- Y. Le, R. Jiang, Y. Jiang, et al. "[Age-of-Information Analysis for Blockchain-Based Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/11122470)," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3597823. 
+
+
+</div>
+</div>
+
+<!-- - Y. Le, R. Jiang, Y. Jiang, et al. "[Age-of-Information Analysis for Blockchain-Based Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/11122470)," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3597823. -->
+
 # 📝 Patents
 
-- *2023.2.28* - 王家恒，**江毅恒**，乐煜炜，区块链的共识节点的竞选方法及装置和电子设备，申请公布号CN202211430967，已受理
+- *2023.2.28* - 王家恒，**江毅恒**，乐煜炜，区块链的共识节点的竞选方法及装置和电子设备，申请公布号CN202211430967
 - *2023.9.22* - 王家恒，**江毅恒**，乐煜炜，一种区块链共识方法及装置，专利申请号：202311221309.9
-- *2023.11.8* - 王家恒、**江毅恒**、江锐、乐煜炜，一种区块链事务并行化执行方法、装置和电子设备，专利申请号：202311476760.5
-- *2023.11.7* - 王家恒、江锐、**江毅恒**、乐煜炜，一种跨域信任管理平台，专利申请号：202311469533.X
+- *2024.10.11* - 王家恒、邓小雪、**江毅恒**、乐煜炜，一种无线网络实体的信任评估方法，专利申请号：CN202410934649.4
+- *2024.07.19* - 	王家恒、**江毅恒**、江锐、乐煜炜，一种区块链事务并行化执行方法、装置和电子设备, **已授权，授权号：CN117648159B**
+- *2024.11.22* - 王家恒、江锐、**江毅恒**、乐煜炜，一种跨域信任管理平台，**已授权，授权号：CN117675217B** 
 
 # 🎖 Honors and Awards
 - *2023.11* - "中国光谷.华为杯"第二十届中国研究生数学建模竞赛，三等奖，国家级.
