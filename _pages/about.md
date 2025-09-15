@@ -61,6 +61,26 @@ Yuwei Le, **Yiheng Jiang**, Xintong Ling, Jiaheng Wang
 
 <!-- - Y. Le, Y. Jiang, X. Ling and J. Wang, "[Efficient and Secure Collaborative Processing in Mobile Edge Computing via Blockchain](https://ieeexplore.ieee.org/document/9903099)," 2022 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics), Espoo, Finland, 2022, pp. 155-160, doi: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics55523.2022.00061. -->
 
+
+<!-- - [Blockchain-Enabled Secure Data Interactions for Responsive Cyber-Physical Spaces](https://ieeexplore.ieee.org/abstract/document/11100788), Kun Huang, Yuwei Le, Yiheng Jiang, Jiaheng Wang, Xintong Ling, **GC Wkshps 2024** -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GC Wkshps 2024</div><img src='images/paperimg/GC2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Blockchain-Enabled Secure Data Interactions for Responsive Cyber-Physical Spaces](https://ieeexplore.ieee.org/abstract/document/11100788)
+
+Kun Huang, Yuwei Le, **Yiheng Jiang**, Jiaheng Wang, Xintong Ling
+
+**Cite**
+- K. Huang, Y. Le, Y. Jiang, J. Wang and X. Ling, "[Blockchain-Enabled Secure Data Interactions for Responsive Cyber-Physical Spaces](https://ieeexplore.ieee.org/abstract/document/11100788)," 2024 IEEE Globecom Workshops (GC Wkshps), Cape Town, South Africa, 2024, pp. 1-6, doi: 10.1109/GCWkshp64532.2024.11100788.
+
+
+</div>
+</div>
+
+<!-- - K. Huang, Y. Le, Y. Jiang, J. Wang and X. Ling, "[Blockchain-Enabled Secure Data Interactions for Responsive Cyber-Physical Spaces](https://ieeexplore.ieee.org/abstract/document/11100788)," 2024 IEEE Globecom Workshops (GC Wkshps), Cape Town, South Africa, 2024, pp. 1-6, doi: 10.1109/GCWkshp64532.2024.11100788. -->
+
+
 # 📝 Patents
 
 - *2023.2.28* - 王家恒，**江毅恒**，乐煜炜，区块链的共识节点的竞选方法及装置和电子设备，申请公布号CN202211430967，已受理
