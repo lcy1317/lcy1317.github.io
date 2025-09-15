@@ -83,7 +83,7 @@ Kun Huang, Yuwei Le, **Yiheng Jiang**, Jiaheng Wang, Xintong Ling
 
 <!-- - [Age-of-Information Analysis for Blockchain-Based Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/11122470), Yuwei Le, Rui Jiang, Yiheng Jiang, Xintong Ling, Jiaheng Wang, Derrick Wing Kwan Ng, **TCOM** -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GC Wkshps 2024</div><img src='images/paperimg/TCOM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCOM</div><img src='images/paperimg/TCOM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Age-of-Information Analysis for Blockchain-Based Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/11122470)
