@@ -46,6 +46,28 @@ Zero Trust 6G Wireless Blockchain Networks!
 
 <!-- - [GaS-PBFT: A Game-based Node Selection Consensus Mechanism for Internet of Things](https://ieeexplore.ieee.org/document/10039397), Yiheng Jiang, Yuwei Le, Jiaheng Wang, Xiaohu You, **WCSP 2022** -->
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBC 2025</div><img src='images/paperimg/ICBC2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Useful Proof of Work Consensus for Efficient Route Planning as Block Mining](https://link.springer.com/chapter/10.1007/978-3-032-06176-8_5)
+
+**Yiheng Jiang**, Yuwei Le, Rui Jiang, Xiaoyang Zhou, Jiaheng Wang
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+**Cite**
+- Y. Jiang, Y. Le, R. Jiang, X. Zhou and J. Wang, "[Useful Proof of Work Consensus for Efficient Route Planning as Block Mining](https://link.springer.com/chapter/10.1007/978-3-032-06176-8_5)," In International Conference on Blockchain (pp. 74-88). Cham: Springer Nature Switzerland.
+
+</div>
+</div>
+
+
+<!-- - [Useful Proof of Work Consensus for Efficient Route Planning as Block Mining](https://link.springer.com/chapter/10.1007/978-3-032-06176-8_5), Yiheng Jiang, Yuwei Le, Rui Jiang, Xiaoyang Zhou, Jiaheng Wang, **ICBC 2025** -->
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iThings 2022</div><img src='images/paperimg/iThings2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -103,7 +125,7 @@ Yuwei Le, Rui Jiang, **Yiheng Jiang**, Xintong Ling, Jiaheng Wang, Derrick Wing 
 
 - *2023.2.28* - 王家恒，**江毅恒**，乐煜炜，区块链的共识节点的竞选方法及装置和电子设备，申请公布号CN202211430967
 - *2023.9.22* - 王家恒，**江毅恒**，乐煜炜，一种区块链共识方法及装置，专利申请号：202311221309.9
-- *2024.10.11* - 王家恒、邓小雪、**江毅恒**、乐煜炜，一种无线网络实体的信任评估方法，专利申请号：CN202410934649.4
+- *2024.10.11* - 王家恒、邓小雪、**江毅恒**、乐煜炜，一种无线网络实体的信任评估方法，**已授权，授权号：CN118764871B**
 - *2024.07.19* - 	王家恒、**江毅恒**、江锐、乐煜炜，一种区块链事务并行化执行方法、装置和电子设备, **已授权，授权号：CN117648159B**
 - *2024.11.22* - 王家恒、江锐、**江毅恒**、乐煜炜，一种跨域信任管理平台，**已授权，授权号：CN117675217B** 
 
